@@ -1,4 +1,5 @@
-c# Form kullanılarak yapılan dama tahtası uygulamamda ;
+(BTK Akademi Engin Demiroğ C# Bootcmap )
+C# Form kullanılarak yapılan dama tahtası uygulamamda ;
 
 Denemeler yaparak başladığım uygulamamda
 
